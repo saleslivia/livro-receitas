@@ -2,5 +2,5 @@
 
 Olá! Bem vindo ao nosso livro de receitas :wave:
 
-- Strogonoff de franfo
-- 
+- Strogonoff de frango
+- Nova receita
